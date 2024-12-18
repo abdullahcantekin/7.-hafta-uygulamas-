@@ -1,0 +1,7 @@
+C:\Users\tekin\source\repos\1. örnek\1. örnek\bin\Debug\_1.örnek.exe.config
+C:\Users\tekin\source\repos\1. örnek\1. örnek\bin\Debug\_1.örnek.exe
+C:\Users\tekin\source\repos\1. örnek\1. örnek\bin\Debug\_1.örnek.pdb
+C:\Users\tekin\source\repos\1. örnek\1. örnek\obj\Debug\1. örnek.csprojAssemblyReference.cache
+C:\Users\tekin\source\repos\1. örnek\1. örnek\obj\Debug\1. örnek.csproj.CoreCompileInputs.cache
+C:\Users\tekin\source\repos\1. örnek\1. örnek\obj\Debug\_1.örnek.exe
+C:\Users\tekin\source\repos\1. örnek\1. örnek\obj\Debug\_1.örnek.pdb
